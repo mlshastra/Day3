@@ -1,4 +1,4 @@
-#Day3 Content
+# Day3 Agenda
 
 
 ## Finding Insights of raw data - Clustering Techniques - Theory & Practicals
